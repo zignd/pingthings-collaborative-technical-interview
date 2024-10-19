@@ -1,0 +1,1 @@
+# pingthings-collaborative-technical-interview
